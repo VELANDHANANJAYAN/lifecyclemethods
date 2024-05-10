@@ -167,13 +167,10 @@ public class MainActivity extends AppCompatActivity {
 ~~~
 
 ## OUTPUT
-
-![Screenshot 2024-03-11 092546](https://github.com/VELANDHANANJAYAN/lifecyclemethods/assets/119405038/6f46ef55-3fe5-4465-84f0-34735a6a8717)
-
-![Screenshot 2024-03-11 092715](https://github.com/VELANDHANANJAYAN/lifecyclemethods/assets/119405038/d3ef861b-e8c2-4bf1-958b-0690076b1617)
-
-![Screenshot 2024-03-11 092722](https://github.com/VELANDHANANJAYAN/lifecyclemethods/assets/119405038/5c0f6354-142d-4113-9723-9d9466d91ee1)
-
+![IMG-20240509-WA0031](https://github.com/VELANDHANANJAYAN/lifecyclemethods/assets/119405038/fb407858-cb9f-4adc-9336-32080dd55895)
+![IMG-20240509-WA0032](https://github.com/VELANDHANANJAYAN/lifecyclemethods/assets/119405038/03f6a7a9-fbe5-42fe-98fa-3d694ed71683)
+![IMG-20240509-WA0019](https://github.com/VELANDHANANJAYAN/lifecyclemethods/assets/119405038/94304aa9-2f27-4a7b-a76b-9c58c80939c9)
+![IMG-20240509-WA0010](https://github.com/VELANDHANANJAYAN/lifecyclemethods/assets/119405038/d6092f92-63dd-4335-945d-813b3e7b3bcc)
 
 
 
